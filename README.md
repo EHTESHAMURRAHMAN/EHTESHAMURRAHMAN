@@ -36,7 +36,7 @@
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" width="40" height="40"/>
   </a> 
   <a href="https://www.mongodb.com/company/newsroom/brand-resources" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="100" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" width="40" height="40"/>
