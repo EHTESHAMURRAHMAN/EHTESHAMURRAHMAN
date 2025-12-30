@@ -33,10 +33,10 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>
     <a href="[https://flutter.dev](https://nodejs.org/en)" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="Node" width="100" height="100"/>
+    <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="Node" width="100" height="40"/>
   </a> 
   <a href="https://www.mongodb.com/company/newsroom/brand-resources" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="100" height="100"/>
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="100" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" width="40" height="40"/>
