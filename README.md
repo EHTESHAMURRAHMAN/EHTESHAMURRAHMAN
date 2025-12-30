@@ -33,7 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>
     <a href="[https://flutter.dev](https://nodejs.org/en)" target="_blank" rel="noreferrer">
-    <img src="https://www.edureka.co/blog/wp-content/uploads/2019/08/node-logo.png" alt="Node" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="Node" width="40" height="40"/>
   </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
